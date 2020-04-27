@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/09/16 23:20:29.000.176,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 20:14:11.000.158,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 22:21:24.000.772,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/11 20:43:47.000.127,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 15:43:37.000.252,=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 15:44:00.000.639,C:\Users\Andre\Desktop\DelphiInga\uMain.pas=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 15:44:00.000.639,C:\Users\Andre\Desktop\DelphiInga\uMain.dfm=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/14 15:44:03.000.310,C:\Users\Andre\Desktop\DelphiInga\Project1.dproj=C:\Users\Andre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/03/14 16:59:46.000.469,=C:\Users\Andre\Desktop\DelphiInga\RootUnit.pas</Transaction>
+    <Transaction>2020/03/14 17:02:26.000.866,C:\Users\Andre\Desktop\DelphiInga\RootUnit.pas=C:\Users\Andre\Desktop\DelphiInga\Token.pas</Transaction>
+    <Transaction>2020/03/15 10:45:19.000.342,=C:\Users\Andre\Desktop\DelphiInga\Pessoa.pas</Transaction>
+    <Transaction>2020/03/16 22:06:09.000.802,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/03/16 22:06:31.000.704,C:\Users\Andre\Desktop\DelphiInga\interfaces\br.com.factorysolution.interfaces.pas=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/03/16 22:18:57.000.792,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/03/16 22:19:21.000.737,C:\Users\Andre\Desktop\DelphiInga\basic\br.com.factorysolution.basic.pas=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/03/16 22:23:32.000.811,C:\Users\Andre\Desktop\DelphiInga\basic\br.com.factorysolution.basicparams.pas=C:\Users\Andre\Desktop\DelphiInga\basic\br.com.factorysolution.basic.pas</Transaction>
+    <Transaction>2020/03/16 22:23:44.000.579,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/03/16 22:23:55.000.370,C:\Users\Andre\Desktop\DelphiInga\basic\br.com.factorysolution.basicrest.pas=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 19:32:03.000.110,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 19:32:27.000.623,C:\Users\Andre\Desktop\DelphiInga\Unit1.pas=C:\Users\Andre\Desktop\DelphiInga\abstract\br.com.factorysolution.abstract.pas</Transaction>
+    <Transaction>2020/04/23 19:52:58.000.137,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 19:53:19.000.969,C:\Users\Andre\Desktop\DelphiInga\Unit1.pas=C:\Users\Andre\Desktop\DelphiInga\oauth\br.com.factorysolution.oauth.pas</Transaction>
+    <Transaction>2020/04/23 19:59:22.000.929,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 19:59:49.000.307,C:\Users\Andre\Desktop\DelphiInga\Unit1.pas=C:\Users\Andre\Desktop\DelphiInga\factory\br.com.factorysolution.factoryparams.pas</Transaction>
+    <Transaction>2020/04/23 20:34:25.000.529,=C:\Users\Andre\Desktop\DelphiInga\Unit1.pas</Transaction>
+    <Transaction>2020/04/23 20:34:36.000.717,C:\Users\Andre\Desktop\DelphiInga\Unit1.pas=C:\Users\Andre\Desktop\DelphiInga\oauth\br.com.factorysolution.oauthparams.pas</Transaction>
+    <Transaction>2020/04/23 20:58:50.000.359,C:\Users\Andre\Desktop\DelphiInga\factory\br.com.factorysolution.factoryparams.pas=</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="abstract"/>
+    <File Path="abstract\br.com.factorysolution.abstract.pas"/>
+    <File Path="basic"/>
+    <File Path="basic\br.com.factorysolution.basicparams.pas"/>
+    <File Path="basic\br.com.factorysolution.basicrest.pas"/>
+    <File Path="interfaces"/>
+    <File Path="interfaces\br.com.factorysolution.interfaces.pas"/>
+    <File Path="oauth"/>
+    <File Path="oauth\br.com.factorysolution.oauth.pas"/>
+    <File Path="oauth\br.com.factorysolution.oauthparams.pas"/>
+    <File Path="Pessoa.pas"/>
+    <File Path="Token.pas"/>
+    <File Path="uMain.pas"/>
+    <File Path="uMain.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
