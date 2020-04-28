@@ -9,3 +9,5 @@
 > Para utilizar Basic Auth ou OAuth2 altere a propriedade [spring.profiles.active] que se localiza no arquivo application.properties
 
 > Importe o projeto no STS ou Intellij, não é necessário Tomcat, o mesmo já vem embarcado no Spring
+
+> A api utiliza o banco de dados MySql
